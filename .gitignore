@@ -1,0 +1,6 @@
+*.log
+*.exe
+*.msi
+*.war
+target
+log
